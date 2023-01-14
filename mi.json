@@ -1,0 +1,38 @@
+[
+    {
+        "precio": 1000,
+        "id": 1,
+        "title": "Zapatos de Dama",
+        "thumbnailUrl": "https://i.picsum.photos/id/21/3008/2008.jpg?hmac=T8DSVNvP-QldCew7WD4jj_S3mWwxZPqdF0CNPksSko4"
+    },
+    {
+        "precio": 1200,
+        "id": 2,
+        "title": "Artículos de Uso Cotidiano",
+        "thumbnailUrl": "https://i.picsum.photos/id/26/4209/2769.jpg?hmac=vcInmowFvPCyKGtV7Vfh7zWcA_Z0kStrPDW3ppP0iGI"
+    },
+    {
+        "precio": 10000,
+        "id": 3,
+        "title": "Computadora",
+        "thumbnailUrl": "https://i.picsum.photos/id/2/5000/3333.jpg?hmac=_KDkqQVttXw_nM-RyJfLImIbafFrqLsuGO5YuHqD-qQ"
+    },
+    {
+        "precio": 5000,
+        "id": 4,
+        "title": "Herramientas",
+        "thumbnailUrl": "https://i.picsum.photos/id/491/5000/4061.jpg?hmac=1ApIgueGQSNc47faiLmjK5o0fM5d3iKx1yFD7nVT9HA"
+    },
+    {
+        "precio": 4000,
+        "id": 5,
+        "title": "Utensillos de cocina",
+        "thumbnailUrl": "https://i.picsum.photos/id/490/5000/3306.jpg?hmac=3oE07HbI9nD9GkJ50fLHDdQXuSJjbBEK7K9n7ScL-2s"
+    },
+    {
+        "precio": 500,
+        "id": 6,
+        "title": "Lámpara China",
+        "thumbnailUrl": "https://i.picsum.photos/id/460/4476/2984.jpg?hmac=5XZz_KDi-ZBs9GLfytKPD5JNjEMJiQUlrvEGrxz0wOU"
+    }
+]
